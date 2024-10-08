@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nufa/static/css/main.666c70c5.css",
+    "main.js": "/nufa/static/js/main.598faa5d.js",
+    "static/js/453.df2766ff.chunk.js": "/nufa/static/js/453.df2766ff.chunk.js",
+    "static/media/bg.webp": "/nufa/static/media/bg.34804674f28b6f68e99f.webp",
+    "static/media/mobile-bg.webp": "/nufa/static/media/mobile-bg.82b50014c476c79eac27.webp",
+    "static/media/texture.png": "/nufa/static/media/texture.b9d9888a67ea618a2410.png",
+    "static/media/instagram.svg": "/nufa/static/media/instagram.ceabe96947af8c3ce71e8d0db763fc40.svg",
+    "static/media/logo.svg": "/nufa/static/media/logo.67ab467ad4855a34b4a64a01801f0e83.svg",
+    "static/media/linkedin.svg": "/nufa/static/media/linkedin.bea93a89d6f2b60d2c2f8ec831d22f20.svg",
+    "static/media/close-icon.svg": "/nufa/static/media/close-icon.d256a118384a7441a74ad9e2f16ab0a1.svg",
+    "index.html": "/nufa/index.html",
+    "static/media/marker.svg": "/nufa/static/media/marker.a206ddb7cc5e74178fc2.svg",
+    "static/media/left_right_arrows.svg": "/nufa/static/media/left_right_arrows.3a150bf710199df74b18.svg",
+    "main.666c70c5.css.map": "/nufa/static/css/main.666c70c5.css.map",
+    "main.598faa5d.js.map": "/nufa/static/js/main.598faa5d.js.map",
+    "453.df2766ff.chunk.js.map": "/nufa/static/js/453.df2766ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.666c70c5.css",
+    "static/js/main.598faa5d.js"
+  ]
+}
